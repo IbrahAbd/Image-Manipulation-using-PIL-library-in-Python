@@ -8,7 +8,11 @@ These effects include:
   * Blurring a given image.
 
 Below are some example images:
-<img src="(https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/sky.png)" width="200" height = "200"><img src="(https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/x.png)" width="200" height = "200"><img src="(https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/o.png)" width="200" height = "200">
+
+<img src="(https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/sky.png)" width="200" height = "200">
+
+<img src="(https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/x.png)" width="200" height = "200">
+<img src="(https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/o.png)" width="200" height = "200">
 
 
 
