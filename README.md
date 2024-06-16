@@ -13,8 +13,8 @@ Below are some example png images to demonstrate the functions:
 
 The below images are outputs of how the program will change an image based on a given function.
 
-             Multiply                  Invert                   Greyscale                  Rotation                    Blur
-<img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/multiply.png" width="200" height = "200"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/inverted.png" width="200" height = "200"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/greyscale.png" width="200" height = "200"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/rotate.png" width="200" height = "200"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/blur.png" width="200" height = "200">
+        Multiply             Invert             Greyscale           Rotation              Blur
+<img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/multiply.png" width="150" height = "150"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/inverted.png" width="150" height = "150"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/greyscale.png" width="150" height = "150"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/rotate.png" width="150" height = "150"><img src="https://github.com/IbrahAbd/Image-Manipulation-using-PIL-library-in-Python/blob/main/Github README Pictures/blur.png" width="150" height = "150">
 
 
 
