@@ -31,7 +31,7 @@ def greyscale(image):
 def multiply(image):
     num = int(input("How many more images would you like to multiply to the base image?\n"))
     for i in range(num):
-        if i == 0:                                                                                                  # Condition to warn user about better image fitting.
+        if i == 0:                                                                                                 
             name = input(f"Enter the {i+1} image name.\n")
             image2 = Image.open(name)            
             image = image2;
